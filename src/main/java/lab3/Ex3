@@ -1,0 +1,6 @@
+Для типа String супертипами являются интерфейсы Serializable и CharSequence.
+
+Scanner реализует интерфейсы Closeable, AutoCloseable, Iterator<String>
+
+Для интерфейса ImageOutputStream суперинтерфейсами являются AutoCloseable,
+Closeable, DataInput, DataOutput, ImageInputStream
